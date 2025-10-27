@@ -63,5 +63,5 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 ---
 
 <p align="center">
-  <i>“Code is where creativity meets logic.”</i> ✨
+  <i>“ᴍᴏᴏɴ ɴᴇᴠᴇʀ ᴅʀᴀᴡɴ ᴛᴏ ᴍᴇ.”</i> 🥀
 </p>
