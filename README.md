@@ -7,7 +7,7 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akarshxs/akarshxs/main/gif2.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 ### 📬 Connect Me Via-
