@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Akarsh%20Tripathi&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Akarsh%20Tripathi&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passionate about AI and Machine Learning. I enjoy building interactive projects and exploring intelligent solutions.
 
@@ -7,19 +7,19 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akarshxs/akarshxs/main/gif2.gif">
 
 
 ### 📬 Connect Me Via-
 
 [![Mail Badge](https://img.shields.io/badge/-xoxoakarsh@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
 [![Instagram Badge](https://img.shields.io/badge/-@akarshxs-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/akarshxs?igsh=MWY0M3hmMXd0OGxqNw==)
-[![Telegram Badge](https://img.shields.io/badge/-Akarshxs-5865f2?style=flat&labelColor=0284c7&logo=telegram&logoColor=white)](https://t.me/AkarshxD)
+[![Telegram Badge](https://img.shields.io/badge/-Akarshxs-5865f2?style=flat&labelColor=5865f2&logo=telegram&logoColor=white)](https://t.me/AkarshxD)
 [![Linkedin Badge](https://img.shields.io/badge/-Akarsh%20Tripathi-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshxs)
 [![Facebook Badge](https://img.shields.io/badge/-Akarsh%20Tripathi-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61582685022640)
 [![Discord Badge](https://img.shields.io/badge/-Akarshxs-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/1432428658601234594)
-[![](https://komarev.com/ghpvc/?username=akarshxs&color=blue&label=Profile%20Views)](https://github.com/akarshxs)
-[![](https://img.shields.io/github/followers/akarshxs?label=GitHub%20Followers)](https://github.com/akarshxs)
+[![](https://komarev.com/ghpvc/?username=Saboo24&color=blue&label=Profile%20Views)](https://github.com/akarshxs)
+[![](https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers)](https://github.com/akarshxs)
 
 ---
 
@@ -64,5 +64,5 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 ---
 
 <p align="center">
-  <i>“ᴍᴏᴏɴ ɴᴇᴠᴇʀ ᴅʀᴀᴡɴ ᴛᴏ ᴍᴇ.”</i> 🥀
+  <i>“Code is where creativity meets logic.”</i> ✨
 </p>
