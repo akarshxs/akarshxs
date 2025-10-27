@@ -17,8 +17,8 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 [![Linkedin Badge](https://img.shields.io/badge/-Akarsh%20Tripathi-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshxs)
 [![Facebook Badge](https://img.shields.io/badge/-Akarsh%20Tripathi-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61582685022640)
 [![Discord Badge](https://img.shields.io/badge/-Sabo-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/1432428658601234594)
-[![](https://komarev.com/ghpvc/?username=Saboo24&color=blue&label=Profile%20Views)](https://github.com/akarshxs)
-[![](https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers)](https://github.com/akarshxs)
+[![](https://komarev.com/ghpvc/?username=akarshxs&color=blue&label=Profile%20Views)](https://github.com/akarshxs)
+[![](https://img.shields.io/github/followers/akarshxs?label=GitHub%20Followers)](https://github.com/akarshxs)
 
 ---
 
