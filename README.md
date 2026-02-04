@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Akarsh%20Tripathi&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc2fa3e1-761b-48f6-b115-9e6e8a33c329" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Akarsh%20Tripathi&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passionate about AI and Machine Learning. I enjoy building interactive projects and exploring intelligent solutions.
 
@@ -41,7 +41,12 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 </p>
 
 ---
+### 🎮 GitHub Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akarshxs/Readme.md-Gif/main/assets/space-shooter.gif" />
+</p>
 
+---
 ### 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarshxs&theme=react&show_icons=true&hide_border=false)
@@ -55,15 +60,6 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshxs&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
 ---
-
-## 🎮 My GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akarshxs/Readme.md-Gif/main/assets/space-shooter.gif" />
-</p>
-
----
-
 
 ## 🏆 Top Contributed Repo
 
