@@ -63,6 +63,9 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akarshxs&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 <p align="center">
   <i>“ᴍᴏᴏɴ ɴᴇᴠᴇʀ ᴅʀᴀᴡɴ ᴛᴏ ᴍᴇ.”</i> 🥀
