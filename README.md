@@ -54,6 +54,13 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshxs&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
+---
+
+### 🎮 My GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 ---
 
@@ -63,9 +70,6 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akarshxs&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-  <img src="assets/space-shooter.gif" />
-</p>
 
 <p align="center">
   <i>“ᴍᴏᴏɴ ɴᴇᴠᴇʀ ᴅʀᴀᴡɴ ᴛᴏ ᴍᴇ.”</i> 🥀
