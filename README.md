@@ -56,7 +56,7 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 ---
 
-## 🎮 My GitHub Activity Game
+## 🎮 My GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akarshxs/Readme.md-Gif/main/assets/space-shooter.gif" />
