@@ -54,9 +54,9 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akarshxs&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
 
 ---
-### 📊 Activity Chart
+### 🈷️ Full year calendar
 <p align="center">
-  <img src="github-metrics.svg" />
+  <img src="github-metrics.svg" height="220" />
 </p>
 
 ---
