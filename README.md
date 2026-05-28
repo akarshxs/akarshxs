@@ -65,7 +65,6 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshxs&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
 ---
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
