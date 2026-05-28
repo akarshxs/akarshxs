@@ -66,10 +66,14 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 ---
 
-## 🏆 Top Contributed Repo
+### ⚙️ &nbsp;GitHub Analytics
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akarshxs&limit=5&theme=react&combine_all_yearly_contributions=true)
-
+<p align="center">
+<a href="https://github.com/akarshxs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akarshxs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akarshxs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ---
 
 <p align="center">
