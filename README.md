@@ -74,8 +74,6 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 </a>
 </p>
 ---
-
 <p align="center">
   <i>“ᴍᴏᴏɴ ɴᴇᴠᴇʀ ᴅʀᴀᴡɴ ᴛᴏ ᴍᴇ.”</i> 🥀
 </p>
-s
