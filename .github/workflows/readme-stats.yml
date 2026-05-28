@@ -1,0 +1,33 @@
+name: Generate README Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats SVG
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=akarshxs&show_icons=true&theme=react&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&icon_color=61DAFB&border_color=30363d&include_all_commits=true&count_private=true" > stats.svg
+          
+      - name: Generate Top Languages SVG
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=akarshxs&layout=compact&langs_count=8&theme=react&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&border_color=30363d" > top-langs.svg
+          
+      - name: Generate Streak Stats SVG
+        run: |
+          curl -s "https://streak-stats.demolab.com?user=akarshxs&theme=react&background=0d1117&stroke=30363d&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&sideNums=c9d1d9&currStreakLabel=61DAFB&sideLabels=c9d1d9&dates=8b949e&border=30363d" > streak.svg
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg streak.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README stats" && git push)
