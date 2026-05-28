@@ -34,7 +34,7 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 &lt;p align="center"&gt;
   &lt;a href="https://skillicons.dev"&gt;
-    &lt;img src="https://skillicons.dev/icons?i=arch,c,html,css,mysql,kali,php,python,js,ts,react,nodejs,git,bash&theme=dark" /&gt;
+    &lt;img src="https://skillicons.dev/icons?i=arch,c,html,css,mysql,kali,php,python,js,ts,react,nodejs,git,bash,docker,linux&theme=dark" /&gt;
   &lt;/a&gt;
 &lt;/p&gt;
 
@@ -44,7 +44,7 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 &lt;p align="center"&gt;
   &lt;a href="https://skillicons.dev"&gt;
-    &lt;img src="https://skillicons.dev/icons?i=vscode,git,github,replit,redhat,ai,linux,docker,figma,postman&theme=dark" /&gt;
+    &lt;img src="https://skillicons.dev/icons?i=vscode,git,github,replit,redhat,ai,linux,docker,figma,postman,vim&theme=dark" /&gt;
   &lt;/a&gt;
 &lt;/p&gt;
 
@@ -162,42 +162,6 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 ---
 
-### 📝 Latest Blog Posts
-
-&lt;!-- BLOG-POST-LIST:START --&gt;
-&lt;!-- Add your Dev.to/Medium blog posts here using GitHub Actions --&gt;
-&lt;!-- BLOG-POST-LIST:END --&gt;
-
----
-
-### 🎵 Spotify Playing
-
-&lt;p align="center"&gt;
-  &lt;img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=akarshxs&theme=natemoo-re&hide_status=false&background_color=0d1117&text_color=61DAFB" alt="Spotify Playing" /&gt;
-&lt;/p&gt;
-
----
-
-### 🐍 Contribution Snake
-
-&lt;p align="center"&gt;
-  &lt;picture&gt;
-    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akarshxs/akarshxs/output/github-contribution-grid-snake-dark.svg" /&gt;
-    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akarshxs/akarshxs/output/github-contribution-grid-snake.svg" /&gt;
-    &lt;img alt="github-snake" src="https://raw.githubusercontent.com/akarshxs/akarshxs/output/github-contribution-grid-snake.svg" /&gt;
-  &lt;/picture&gt;
-&lt;/p&gt;
-
----
-
-### 📊 Weekly Development Breakdown
-
-&lt;!--START_SECTION:waka--&gt;
-&lt;!-- Add WakaTime integration for coding stats --&gt;
-&lt;!--END_SECTION:waka--&gt;
-
----
-
 ### 🌐 Portfolio & Projects
 
 &lt;p align="center"&gt;
@@ -211,13 +175,19 @@ I'm Akarsh Tripathi, a 1st-year Computer Science student and a Developer passion
 
 ---
 
-### 🤝 Support My Work
+### 🐍 Contribution Snake
 
+&gt; ⚠️ **To enable the snake animation**, create `.github/workflows/snake.yml` with [this workflow](https://github.com/Platane/snk#readme) and run it once. Then uncomment below:
+
+&lt;!-- 
 &lt;p align="center"&gt;
-  &lt;a href="https://www.buymeacoffee.com/akarshxs"&gt;
-    &lt;img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /&gt;
-  &lt;/a&gt;
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akarshxs/akarshxs/output/github-contribution-grid-snake-dark.svg" /&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akarshxs/akarshxs/output/github-contribution-grid-snake.svg" /&gt;
+    &lt;img alt="github-snake" src="https://raw.githubusercontent.com/akarshxs/akarshxs/output/github-contribution-grid-snake.svg" /&gt;
+  &lt;/picture&gt;
 &lt;/p&gt;
+--&gt;
 
 ---
 
